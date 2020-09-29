@@ -1,0 +1,5 @@
+google-cloud-logging
+google-cloud-storage
+google-cloud-bigquery
+requests
+oauth2client

@@ -1,0 +1,12 @@
+.idea
+*.iml
+*.DS_Store
+*.cache/
+.terraform/
+*tfstate*
+*.pyc
+*__pycache__/
+.pytest_cache
+.coverage
+*.egg-info
+venv
